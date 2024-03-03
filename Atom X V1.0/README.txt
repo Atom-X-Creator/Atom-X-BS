@@ -8,8 +8,8 @@ Step 3: Press inject .
 
 Step 4: Have fun using Atom X!
 
-But note that using anything other than the visuals and changing circle size,
+But note that using this will sometimes cause the game to crash. 
 
-will probably crash the game. If this happens, don't freak out, simply relaunch the game, and reinject.
+If this happens, don't freak out, simply relaunch the game, and reinject.
 
 Stay safe, use at your own risk, and have fun!
